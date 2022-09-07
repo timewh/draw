@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T05:21:53.924Z" agent="5.0 (Windows)" etag="nW1OaaX_vv3A50D18Tgd" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T05:25:41.066Z" agent="5.0 (Windows)" etag="22gB58LLhzRVr8yk1W3N" version="20.2.8" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -93,13 +93,13 @@
           <mxGeometry x="483" y="477" width="286" height="340" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-32" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="556" y="711" width="142" height="89" as="geometry" />
+          <mxGeometry x="555.25" y="701" width="142" height="89" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-33" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="594" y="724" width="64.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="594" y="578" width="65" height="85" as="geometry" />
+          <mxGeometry x="370" y="587.5" width="55.44" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-35" value="User forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1405" y="460" width="286" height="340" as="geometry" />
@@ -148,10 +148,10 @@
           <mxGeometry x="200" y="238" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kNHAxhkfLGcE_838q2U1-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.globe;" vertex="1" parent="1">
-          <mxGeometry x="240" y="649" width="78.5" height="75" as="geometry" />
+          <mxGeometry x="220" y="575.55" width="58.5" height="55.89" as="geometry" />
         </mxCell>
         <mxCell id="kNHAxhkfLGcE_838q2U1-3" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xencenter;" vertex="1" parent="1">
-          <mxGeometry x="360" y="711" width="76" height="89" as="geometry" />
+          <mxGeometry x="278.5" y="646" width="76" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
